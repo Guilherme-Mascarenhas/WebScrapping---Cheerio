@@ -1,6 +1,7 @@
 <h1 align = 'center'>
 	WebScrapping - Simple
 </h1>
+
 ## Sobre o projeto
 
 WebScraping é a pratica de extrair dados de sites da web de forma automatizada, utilizando o HTML das paginas como fonte de dados, a fim de obter informações uteis.

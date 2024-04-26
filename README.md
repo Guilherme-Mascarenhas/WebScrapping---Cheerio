@@ -16,6 +16,7 @@ Site: https://www.scrapethissite.com/pages/simple/
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - NodeJS
+  
 Bibliotecas
 -   **Axios (Requisição HTTP)**
 -   **Cheerio (Analisa Mercações)**

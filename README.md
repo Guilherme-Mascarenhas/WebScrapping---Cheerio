@@ -1,17 +1,6 @@
 <h1 align = 'center'>
 	WebScrapping - Simple
 </h1>
-<h3>Tabela de conteudos</h3>
-=================
-<!--ts-->
-   * [Sobre o projeto](#-sobre-o-projeto)
-   * [Tecnologias](#-tecnologias)
-   * [Como executar o projeto](#-como-executar-o-projeto)
-     * [Pre-requisitos](#pre-requisitos)
-     * [Rodando o Projeto](#user-content--rodando-o-backend-servidor)
-   * [Autor](#-autor)
-<!--te-->
-
 ## Sobre o projeto
 
 WebScraping é a pratica de extrair dados de sites da web de forma automatizada, utilizando o HTML das paginas como fonte de dados, a fim de obter informações uteis.
